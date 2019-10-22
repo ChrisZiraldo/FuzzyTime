@@ -3,3 +3,6 @@
 </p>
 
 FuzzyTime for the terminal
+
+
+using https://github.com/dominikwilkowski/cfonts
